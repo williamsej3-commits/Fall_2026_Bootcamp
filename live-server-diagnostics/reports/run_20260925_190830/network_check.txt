@@ -1,0 +1,7 @@
+NETWORK CHECK
+=============
+Target host: localhost
+
+Ping status: FAILED
+
+Access denied. Option -c requires administrative privileges.
