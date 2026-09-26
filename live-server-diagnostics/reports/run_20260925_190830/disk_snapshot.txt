@@ -1,0 +1,13 @@
+DISK SNAPSHOT
+=============
+Target path: /c/Users/novo_/Documents/TheoWAF/cpg/cloud_fundamentals/Fall_2026_Bootcamp/live-server-diagnostics
+
+Filesystem usage:
+Filesystem      Size  Used Avail Use% Mounted on
+C:              931G  797G  134G  86% /c
+
+Directory size:
+37K	/c/Users/novo_/Documents/TheoWAF/cpg/cloud_fundamentals/Fall_2026_Bootcamp/live-server-diagnostics
+
+File count:
+3
